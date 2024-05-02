@@ -1,7 +1,7 @@
 # 🚀 About Me 💻 :
 ¡Hola!Soy Emi, un apasionado Desarrollador Full Stack JAVA.<br><br>Con experiencia en tecnologías como JavaScript, Vue.js, React, Tailwind, HTML5, CSS, Spring Boot y JAVA, he colaborado en proyectos diversos bajo la metodología Ágil (SCRUM), tanto en equipos individuales como en grupos multidisciplinarios.<br><br>Mi enfoque se centra en la creación de aplicaciones simples y eficientes, así como en la optimización de operaciones y la gestión de datos para garantizar resultados excepcionales.<br><br>Me caracterizo por ser una persona determinada para alcanzar sus objetivos, curiosa por aprender y amigable para trabajar en equipo.<br><br>Si consideras que mi perfil se ajusta a lo que estás buscando para tu equipo o proyecto, no dudes en ponerte en contacto conmigo a través de correo electrónico (emiliano.estebandiaz@gmail.com). Estoy ansioso por contribuir con mi experiencia y habilidades.
 
-![Descripción de la imagen](https://i.gifer.com/origin/4b/4be9564c96f114c50089f76c3850db63_w200.gif)
+![Descripción de la imagen](https://cdn.gamedevmarket.net/wp-content/uploads/20191203140416/55aa7f4f925754aa5bc991e46fad54fb.gif)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emiliano-esteban-diaz/) 
 
